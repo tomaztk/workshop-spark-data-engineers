@@ -36,7 +36,7 @@ df.show
 ```
 
 
-# Data Sources and DAta Sinks
+# Data Sources and Data Sinks
 
 ## Reading data with spark, Python, R
 

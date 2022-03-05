@@ -313,8 +313,10 @@ And execute below command to start all services
 Check the locations: 
 
 Spark Master UI : http://localhost:8080/
+Or Alternatively: http://192.168.0.242:8080/
 
 Spark Application UI : http://localhost:4040/
+and Alternatevly: http://192.168.0.242:4040/
 
 
 Start Jupyter notebook and type:
@@ -380,3 +382,4 @@ There are many languages available for Spark API support
 ## RSpark / Sparkly
 
 ## Databricks Pandas (vs. Python Pandas)
+
