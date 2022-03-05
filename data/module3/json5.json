@@ -1,0 +1,32 @@
+[{
+  "RecordNumber": 2,
+  "Zipcode": 1000,
+  "ZipCodeType": "STANDARD",
+  "City": "Ljubljana",
+   "State":"SI"
+},
+{
+  "RecordNumber": 10,
+  "Zipcode": 3000,
+  "ZipCodeType": "STANDARD",
+  "City": "Celje",
+   "State":"SI"
+ },
+{
+  "RecordNumber": 32,
+  "Zipcode": 100,
+  "ZipCodeType": "STANDARD",
+  "City": "Ljubljana",
+   "State":"SI", 
+   "Country":"Slovenia",
+   "Lat":"46.0569",
+   "Long":"14.5058"
+ },
+{
+  "RecordNumber": 104,
+  "Zipcode": 89260,
+  "ZipCodeType": "STANDARD",
+  "City": "Seattle",
+   "State":"WA",
+   "Country":"USA"
+ }]

@@ -1,0 +1,8 @@
+[{
+  "RecordNumber": 2,
+  "Zipcode": 1000,
+  "ZipCodeType": "STANDARD",
+  "City": "London",
+   "State":"LN",
+   "Country":"UK"
+}]

@@ -1,0 +1,10 @@
+[{
+  "RecordNumber": 32,
+  "Zipcode": 100,
+  "ZipCodeType": "STANDARD",
+  "City": "Ljubljana",
+   "State":"SI", 
+   "Country":"Slovenia",
+   "Lat":"46.0569",
+   "Long":"14.5058"
+ }]
