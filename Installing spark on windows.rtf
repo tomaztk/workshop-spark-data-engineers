@@ -1,7 +1,10 @@
 {\rtf1\ansi\ansicpg1252\cocoartf2636
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 Times-Roman;\f2\fnil\fcharset0 HelveticaNeue-Bold;
+\f3\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red25\green28\blue31;\red255\green255\blue255;
+\red0\green0\blue233;\red0\green0\blue0;\red0\green0\blue233;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c12941\c14510\c16078;\cssrgb\c100000\c100000\c100000;
+\cssrgb\c0\c0\c93333;\cssrgb\c0\c0\c0\cname textColor;\cssrgb\c0\c0\c93333;}
 \paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
 \pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
 
@@ -54,4 +57,51 @@ SCALA_HOME C:\\Program Files (x86)\\sbt\
 \
 System variable\
 C:\\Program Files (x86)\\sbt\\bin to PATH variable.\
+\
+\
+\
+\
+# MacOS\
+\
+brew upgrade && brew update\
+\
+brew install javacc\
+brew install java8\
+\
+\pard\pardeftab720\partightenfactor0
+
+\f1\fs26 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 sudo ln -sfn /opt/homebrew/opt/openjdk/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk.jdk\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+start-master.sh\
+\pard\pardeftab720\partightenfactor0
+
+\f2\b\fs49 \cf3 \cb4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 start-slave.sh spark://Tomazs-MacBook-Pro.local:7077\
+\
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\b0\fs24 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 https://www.azul.com/downloads/?package=jdk\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.azul.com/downloads/?package=jdk"}}{\fldrslt 
+\f1 \cf5 \expnd0\expndtw0\kerning0
+\ul \ulc5 \outl0\strokewidth0 \strokec5 Java Download | Java 8, Java 11, Java 13 - Linux, Windows & macOS (azul.com)}}
+\f1 \cf5 \expnd0\expndtw0\kerning0
+\ul \ulc5 \outl0\strokewidth0 \strokec5 \
+\
+ARM 64Bit 15.0.6+5\
+\
+\pard\pardeftab720\sa240\qc\partightenfactor0
+
+\f3\fs28 \cf6 \ulnone \outl0\strokewidth0 You have installed Azul Zulu JDK 15.38+17.
+\f1\fs24  \
+
+\f3\fs28 Review latest release notes at \uc0\u8232 {\field{\*\fldinst{HYPERLINK "http://www.azul.com/products/core"}}{\fldrslt \ul http://www.azul.com/products/core}}.
+\f1\fs24  \
+\pard\pardeftab720\partightenfactor0
+
+\f0 \cf0 \kerning1\expnd0\expndtw0 \
 }
