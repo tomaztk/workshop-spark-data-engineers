@@ -46,17 +46,24 @@ Technical prerequisite for attendees:
 - Access to internet
 - Credentials and credit (free credit) for accessing Azure portal
 
-Agenda for the day (9AM – 5PM; Start and end time can vary and will be finalised with organizator)
 
-1. Module 1 (9.00AM – 10.00 AM): Getting to know Apache Spark, Installation and setting up the environment
+DSP 2022 - September 12th & 13th 2022 - Agenda for two days(12.30 - 16.30PM (CEST); Start and end time can vary and will be finalised with organizator, as well as coffee breaks)
+
+September 12h 2022 -
+1. Module 1 (12.30 – 13.30 AM): Getting to know Apache Spark, Installation and setting up the environment
 2. Coffee Break 15'
-3. Module 2 (10.00 – 11.15): Creating Datasets, organising raw data and working with structured APIs
+3. Module 2 (13.45 – 15.00): Creating Datasets, organising raw data and working with structured APIs
 4. Coffee Break 15'
-5. Module 3 (11:30 – 13.00): Designing and building pipelines, moving data and building data models with Spark
-6. Lunch: 13.00 – 14.00
-7. Module 4: Data and process orchestration, deployment and Spark Applications (14.00 - 15.00)
-8. Coffee break 15'
-9. Module 5: Data Streaming with (15.15 - 16.15)
-10. Module 6: Ecosystem, tooling and community (16.15 - 17.00)
+5. Module 3 (15:15 – 16.30): Designing and building pipelines, moving data and building data models with Spark
+
+
+
+September 13h 2022 -
+1. Module 3: (12:30 – 12.45): Designing and building pipelines, moving data and building data models with Spark
+2. Module 4: (12.45 - 14.00) Data and process orchestration, deployment and Spark Applications 
+3. Coffee break 15'
+4. Module 5: Data Streaming with Spark (14.15 - 15.15)
+5. Break 5'
+6. Module 6: Ecosystem, tooling and community (15.20 - 16.10)
 
 All modules have hands-on material that will be given to attendees at the beginning of the training.
