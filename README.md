@@ -1,5 +1,5 @@
 # Workshop: Spark for Data Engineers
-Workshop material for "Spark for Data Engineers" for SQLBits 2022
+Workshop material for "Spark for Data Engineers" 
 
 Data Analysts, data Scientist, Business Intelligence analysts and many other roles require data on demand. Fighting with data silos, many scatter databases, Excel files, CSV files, JSON files, APIs and potentially different flavours of cloud storage may be tedious, nerve-wracking and time-consuming.
 
